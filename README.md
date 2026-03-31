@@ -27,11 +27,11 @@ This application allows users to:
 
  Features
 
-* ➕ Add medicine with time
-* 📋 Display list of scheduled medicines
-* ⏰ Real-time alert notification
-* 💻 Simple and clean interface
-* ⚡ Lightweight and fast (no installation required)
+*  Add medicine with time
+*  Display list of scheduled medicines
+*  Real-time alert notification
+*  Simple and clean interface
+*  Lightweight and fast (no installation required)
 
 ---
 
@@ -106,10 +106,10 @@ Follow these steps:
 
 ---
 
-👩‍💻 Author
+Author
 Khushi Raisinghani
 B.Tech Student – VIT Bhopal
 
 
-📄 License
+License
 This project is for educational purposes.
