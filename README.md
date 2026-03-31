@@ -1,7 +1,7 @@
 # medicine-reminder-24BHI10112
 # 💊 Medicine Reminder Web App
 
-## 📌 Overview
+📌 Overview
 
 The **Medicine Reminder Web App** is a simple and user-friendly web application designed to help users remember to take their medicines on time. It allows users to add medicines along with a specific time and provides a browser alert as a reminder.
 
@@ -9,13 +9,13 @@ This project addresses a common real-world problem — forgetting medication sch
 
 ---
 
-## 🎯 Problem Statement
+🎯 Problem Statement
 
 Many people, especially students, working professionals, and elderly individuals, often forget to take medicines at the correct time. Missing doses can affect health and recovery.
 
 ---
 
-## 💡 Solution
+💡 Solution
 
 This application allows users to:
 
@@ -25,7 +25,7 @@ This application allows users to:
 
 ---
 
-## ✨ Features
+✨ Features
 
 * ➕ Add medicine with time
 * 📋 Display list of scheduled medicines
@@ -35,7 +35,7 @@ This application allows users to:
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 * HTML (Structure)
 * CSS (Styling)
@@ -43,7 +43,7 @@ This application allows users to:
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 medicine-reminder/
@@ -56,14 +56,14 @@ medicine-reminder/
 
 ---
 
-## ▶️ How to Run the Project
+▶️ How to Run the Project
 
 Follow these steps:
 
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/yourusername/medicine-reminder.git
+   git clone https://github.com/Khushi-06-12/medicine-reminder.git
    ```
 
 2. Open the project folder.
@@ -78,7 +78,7 @@ Follow these steps:
 
 ---
 
-## 🧪 How to Use
+🧪 How to Use
 
 1. Enter the **medicine name**
 2. Select the **time** (set 1–2 minutes ahead for testing)
@@ -88,7 +88,7 @@ Follow these steps:
 
 ---
 
-## ⚠️ Notes
+⚠️ Notes
 
 * The reminder works only when the browser tab is open
 * Time must match exactly (HH:MM format)
@@ -96,7 +96,7 @@ Follow these steps:
 
 ---
 
-## 🚀 Future Improvements
+🚀 Future Improvements
 
 * Save data using localStorage
 * Add delete/edit option
@@ -106,13 +106,10 @@ Follow these steps:
 
 ---
 
-## 👩‍💻 Author
-
-**Your Name**
+👩‍💻 Author
+Khushi Raisinghani
 B.Tech Student – VIT Bhopal
 
----
 
-## 📄 License
-
+📄 License
 This project is for educational purposes.
